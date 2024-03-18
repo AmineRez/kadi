@@ -10,7 +10,7 @@
         {
             "src": "/(.*)",
 
-            "dest": "packages/wsgi.py"
+            "dest": "/"
 
 
         }]
